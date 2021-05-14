@@ -37,4 +37,4 @@ Hi, I am **Leo Adlakha**, currently pursuing a B.E. in Computer Science from **N
 ### Connect with me:
 
 [![Email](https://img.shields.io/badge/Email-yellow.svg?style=for-the-badge&logo=email)](mailto:leoadlakha@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leo-adlakha-830134176/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/Leo-Adlakha/)
