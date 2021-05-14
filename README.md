@@ -19,18 +19,22 @@ Hi, I am **Leo Adlakha**, currently pursuing a B.E. in Computer Science from **N
 ##
 <img src="https://github-readme-stats.vercel.app/api?username=Leo-Adlakha&&show_icons=true&theme=vue-dark&hide=issues&count_private=true&include_all_commits=true" width="100%">
 
-#
+### Some of my Work:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
-#
 
-### Some of my Work:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leo-Adlakha&repo=IQE&theme=dracula)](https://github.com/Leo-Adlakha/IQE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leo-Adlakha&repo=Pothole_Detection&theme=dracula)](https://github.com/Leo-Adlakha/Pothole_Detection)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leo-Adlakha&repo=TDTVD&theme=dracula)](https://github.com/Leo-Adlakha/TDTVD)
