@@ -20,10 +20,10 @@ Hi, I am **Leo Adlakha**, currently pursuing a B.E. in Computer Science from **N
 <img src="https://github-readme-stats.vercel.app/api?username=Leo-Adlakha&&show_icons=true&theme=vue-dark&hide=issues&count_private=true&include_all_commits=true" width="100%">
 
 ### Some of my Work:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leo-Adlakha&repo=IQE&theme=vue)](https://github.com/Leo-Adlakha/IQE)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leo-Adlakha&repo=Pothole_Detection&theme=vue)](https://github.com/Leo-Adlakha/Pothole_Detection)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leo-Adlakha&repo=TDTVD&theme=vue)](https://github.com/Leo-Adlakha/TDTVD)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leo-Adlakha&repo=Emojifier_Django&theme=vue)](https://github.com/Leo-Adlakha/Emojifier_Django)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leo-Adlakha&repo=IQE&theme=vue-dark)](https://github.com/Leo-Adlakha/IQE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leo-Adlakha&repo=Pothole_Detection&theme=vue-dark)](https://github.com/Leo-Adlakha/Pothole_Detection)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leo-Adlakha&repo=TDTVD&theme=vue-dark)](https://github.com/Leo-Adlakha/TDTVD)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leo-Adlakha&repo=Emojifier_Django&theme=vue-dark)](https://github.com/Leo-Adlakha/Emojifier_Django)
 
 ##
 ### Connect with me:
