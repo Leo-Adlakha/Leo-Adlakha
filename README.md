@@ -21,7 +21,7 @@ Hi, I am **Leo Adlakha**, currently pursuing a B.E. in Computer Science from **N
 <img src="https://github-readme-stats.vercel.app/api?username=Leo-Adlakha&&show_icons=true&theme=vue&hide=issues&count_private=true&include_all_commits=true" width="100%">
 
 ##
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leo-Adlakha&repo=IQE&theme=vue)](https://github.com/Leo-Adlakha/IQE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leo-Adlakha&repo=IQE&theme=vue-dark)](https://github.com/Leo-Adlakha/IQE)
 
 ##
 ### Connect with me:
