@@ -11,13 +11,13 @@ Hi, I am **Leo Adlakha**, currently pursuing a B.E. in Computer Science from **N
 - Operating Systems, System Design, Database Management
 #
 
-## 
 ### My Publication and Research Work:
 
 - **Trends in Deep Learning Methodology**, *Vincenzo Piuri, Sandeep Raj, Angelo Genovese, Rajshree Srivastava*, Nov 1, 2020: Wrote 2nd Chapter in the book on Deep Learning in Big Data and Data Mining. To access our publication, [Click Here](https://www.elsevier.com/books/trends-in-deep-learning-methodologies/piuri/978-0-12-822226-3)
 
 - **Image Quality Enhnacement**, *Leo Adlakha, Prateek Bhardwaj, Abhijeet Singh Varun*: We present a novel approach to adjust image properties of low-light images to yield an enhanced image with better contrast and brightness with the help of **Deep Convolutional GANs**. To read more about our approach, [Click Here](https://github.com/Leo-Adlakha/IQE/blob/master/MachineLearningContent/Paper/LLIQE.pdf).
 
+##
 <img src="https://github-readme-stats.vercel.app/api?username=Leo-Adlakha&&show_icons=true&theme=vue&hide=issues&count_private=true&include_all_commits=true" width="100%">
 
 ##
