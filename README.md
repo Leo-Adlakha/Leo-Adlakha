@@ -24,7 +24,7 @@ Hi, I am **Leo Adlakha**, currently pursuing a B.E. in Computer Science from **N
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Leo-Adlakha&repo=IQE&theme=dracula" />
 </a>
 <a href="https://github.com/Leo-Adlakha/Pothole_Detection">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Leo-Adlakha&repo=Pothole_Detection&theme=vue-dark" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Leo-Adlakha&repo=Pothole_Detection&theme=dracula" />
 </a>
 <a href="https://github.com/Leo-Adlakha/TDTVD">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Leo-Adlakha&repo=TDTVD&theme=dracula" />
