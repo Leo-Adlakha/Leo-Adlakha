@@ -1,3 +1,5 @@
+Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit.
+
 Hi, I am **Leo Adlakha**, currently pursuing a B.E. in Computer Science from **Netaji Subhas University of Technology**, Batch 2022. My Technical Proficiencies include - 
 
 #
