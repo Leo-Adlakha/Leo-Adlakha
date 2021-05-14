@@ -20,25 +20,18 @@ Hi, I am **Leo Adlakha**, currently pursuing a B.E. in Computer Science from **N
 <img src="https://github-readme-stats.vercel.app/api?username=Leo-Adlakha&&show_icons=true&theme=vue-dark&hide=issues&count_private=true&include_all_commits=true" width="100%">
 
 ### Some of my Work:
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/Leo-Adlakha/IQE">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Leo-Adlakha&repo=IQE&theme=dracula" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/Leo-Adlakha/Pothole_Detection">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Leo-Adlakha&repo=Pothole_Detection&theme=dracula" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/Leo-Adlakha/TDTVD">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Leo-Adlakha&repo=TDTVD&theme=dracula" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/Leo-Adlakha/Emojifier_Django">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Leo-Adlakha&repo=Emojifier_Django&theme=dracula" />
 </a>
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leo-Adlakha&repo=IQE&theme=dracula)](https://github.com/Leo-Adlakha/IQE)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leo-Adlakha&repo=Pothole_Detection&theme=dracula)](https://github.com/Leo-Adlakha/Pothole_Detection)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leo-Adlakha&repo=TDTVD&theme=dracula)](https://github.com/Leo-Adlakha/TDTVD)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leo-Adlakha&repo=Emojifier_Django&theme=dracula)](https://github.com/Leo-Adlakha/Emojifier_Django)
 
 ##
 ### Connect with me:
